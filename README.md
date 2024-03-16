@@ -12,7 +12,7 @@ __This is an ARM9 primary exploit for 3DS that can be launched with only filenam
 # About this mod 
 ![PICTURE](https://github.com/chronoss09/MSET9---easy-and-colorful/blob/main/Capture.PNG)
 
-This mod use original file from the last version for [MSET9 exploit by Zoogie (v1.2c)](https://github.com/zoogie/MSET9), i added only color and get it more explicit for everyone and noob...
+This mod use original file from the last version for [MSET9 exploit by Zoogie (v1.2c)](https://github.com/zoogie/MSET9), i added only color and get it more explicit for everyone and/or noob...
 
 Official tutorial : [3DS Hacks Guide- MSET9](https://3ds.hacks.guide/installing-boot9strap-(mset9).html) 
 
