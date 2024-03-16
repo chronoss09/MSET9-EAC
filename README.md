@@ -16,4 +16,5 @@ This mod use original file from the last version for [MSET9 exploit by Zoogie (v
 
 Official tutorial : [3DS Hacks Guide- MSET9](https://3ds.hacks.guide/installing-boot9strap-(mset9).html) 
 
-[![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/Chronoss09/MSET9-EAC/total) ![PS4](https://img.shields.io/badge/-Nintendo%203DS-003791?style=flat&logo=Nintendo)
+ [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/MSET9-EAC/total
+) ![PS4](https://img.shields.io/badge/-Nintendo%203DS-003791?style=flat&logo=Nintendo)
