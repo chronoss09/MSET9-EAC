@@ -1,5 +1,5 @@
 # MSET9 - Easy And Colorful ( ͡° ͜ʖ ͡°)
-Ultimate hacking 3DS console on last firmware between 11.4 to 11.17
+Ultimate hacking 3DS console on firmware between 11.4 to 11.17
 
 # What it is ?
 __This is an ARM9 primary exploit for 3DS that can be launched with only filename data added to the inserted SD card.__
